@@ -1,8 +1,1 @@
-# requirements.txt - Dependencies for FastAPI app on Railway
-fastapi
-uvicorn
-requests
-sqlalchemy
-psycopg2-binary
-pydantic
-openai
+
